@@ -40,3 +40,14 @@ section {
 footer {
     text-align: center;
 }
+
+.item {
+    background-color: #2600ff;
+    color: #ffffff;
+}
+
+.container-block .item {
+    display: block;
+    height: 1.5rem;
+    margin: 0.5rem;
+}
